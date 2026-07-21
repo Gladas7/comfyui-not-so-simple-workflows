@@ -4,11 +4,11 @@ These workflows were designed for my personal use, but are being shared by reque
 
 ## Support Policy
 
-This workflow is provided as-is and without guaranteed support.
+These workflows are provided as-is and without guaranteed support.
 
 Support, documentation, and updates apply only to the official version distributed through this repository. I do not provide support for third-party applications, modified versions, redistributed copies, reposts, bundles, or installations obtained from unofficial sources.
 
-Inclusion of this workflow in another project does not imply my endorsement, involvement, or responsibility for that project.
+Inclusion of these workflows in another project does not imply my endorsement, involvement, or responsibility for that project.
 
 ## Krea 2 Turbo Workflow
 
