@@ -62,9 +62,6 @@ The Krea 2 Turbo workflow has the following functions/features:
 #### comfyui-gps-supplements
 * https://github.com/Goshe-nite/comfyui-gps-supplements
 
-#### ComfyUI-Detail-Daemon
-* https://github.com/Jonseed/ComfyUI-Detail-Daemon
-
 #### ComfyUI-Easy-Color-Corrector
 * https://github.com/regiellis/ComfyUI-EasyColorCorrector
 
@@ -116,9 +113,6 @@ The Anima workflow has the following functions/features:
 
 #### comfyui-gps-supplements
 * https://github.com/Goshe-nite/comfyui-gps-supplements
-
-#### ComfyUI-Detail-Daemon
-* https://github.com/Jonseed/ComfyUI-Detail-Daemon
 
 #### RES4LYF
 * https://github.com/ClownsharkBatwing/RES4LYF
