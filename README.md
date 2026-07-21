@@ -177,4 +177,4 @@ The Illustrious workflow has the following functions/features:
 * https://github.com/regiellis/ComfyUI-EasyColorCorrector
 
 # Image Examples
-Image samples using these workflows can be found here: https://civitai.com/user/Gladas
+Image samples (rated PG/PG-13 per CivitAI) using these workflows can be found here: https://civitai.com/user/Gladas
