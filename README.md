@@ -21,7 +21,6 @@ Installation of ComfyUI and/or any related custom nodes for these workflows are 
 The Krea 2 Turbo workflow has the following functions/features:
 
 * Text to Image
-* Image to Image
 * Multiple Lora Loading
 * Global control for Seed
 * Wildcards
