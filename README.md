@@ -1,10 +1,180 @@
 # comfyui-not-so-simple-workflows
-These are my personal ComfyUI workflows made available for those who do not want to make their own.
 
-# Support Policy
+These workflows were designed for my personal use, but are being shared by request.
+
+## Support Policy
 
 This workflow is provided as-is and without guaranteed support.
 
 Support, documentation, and updates apply only to the official version distributed through this repository. I do not provide support for third-party applications, modified versions, redistributed copies, reposts, bundles, or installations obtained from unofficial sources.
 
 Inclusion of this workflow in another project does not imply my endorsement, involvement, or responsibility for that project.
+
+## Krea 2 Turbo Workflow
+
+The Krea 2 Turbo workflow has the following functions/features:
+
+* Text to Image
+* Image to Image
+* Multiple Lora Loading
+* Global control for Seed
+* Wildcards
+* Upscale
+* Detailers
+* Color Correction
+* Save Image with full resource metadata in CivitAI readable format
+
+### Custom Nodes used:
+
+#### rgthree-comfy
+* https://github.com/rgthree/rgthree-comfy
+
+#### ComfyUI-Custom-Scripts
+* https://github.com/pythongosssss/ComfyUI-Custom-Scripts
+
+#### ComfyUI-KJNodes
+* https://github.com/kijai/ComfyUI-KJNodes
+
+#### ComfyUI_UltimateSDUpscale
+* https://github.com/ssitu/ComfyUI_UltimateSDUpscale
+
+#### ComfyUI-Inspire-Pack
+* https://github.com/ltdrdata/ComfyUI-Inspire-Pack
+
+#### ComfyUI-Impact-Pack
+* https://github.com/ltdrdata/ComfyUI-Impact-Pack
+
+#### ComfyUI-Impact-Subpack
+* https://github.com/ltdrdata/ComfyUI-Impact-Subpack
+
+#### ComfyMath
+* https://github.com/evanspearman/ComfyMath
+
+#### ComfyUI-Image-Saver
+* https://github.com/alexopus/ComfyUI-Image-Saver
+
+#### comfyui-gps-supplements
+* https://github.com/Goshe-nite/comfyui-gps-supplements
+
+#### ComfyUI-Detail-Daemon
+* https://github.com/Jonseed/ComfyUI-Detail-Daemon
+
+#### ComfyUI-Easy-Color-Corrector
+* https://github.com/regiellis/ComfyUI-EasyColorCorrector
+
+#### comfyui-krea2-conditioning
+* https://github.com/huwhitememes/comfyui-krea2-conditioning
+
+## Anima Workflow
+
+The Anima workflow has the following functions/features:
+
+* Text to Image
+* Image to Image
+* Multiple Lora Loading
+* Global control for Seed
+* Wildcards
+* Upscale
+* Detailers
+* Color Correction
+* Save Image with full resource metadata in CivitAI readable format
+
+### Custom Nodes used:
+
+#### rgthree-comfy
+* https://github.com/rgthree/rgthree-comfy
+
+#### ComfyUI-Custom-Scripts
+* https://github.com/pythongosssss/ComfyUI-Custom-Scripts
+
+#### ComfyUI-KJNodes
+* https://github.com/kijai/ComfyUI-KJNodes
+
+#### ComfyUI_UltimateSDUpscale
+* https://github.com/ssitu/ComfyUI_UltimateSDUpscale
+
+#### ComfyUI-Inspire-Pack
+* https://github.com/ltdrdata/ComfyUI-Inspire-Pack
+
+#### ComfyUI-Impact-Pack
+* https://github.com/ltdrdata/ComfyUI-Impact-Pack
+
+#### ComfyUI-Impact-Subpack
+* https://github.com/ltdrdata/ComfyUI-Impact-Subpack
+
+#### ComfyMath
+* https://github.com/evanspearman/ComfyMath
+
+#### ComfyUI-Image-Saver
+* https://github.com/alexopus/ComfyUI-Image-Saver
+
+#### comfyui-gps-supplements
+* https://github.com/Goshe-nite/comfyui-gps-supplements
+
+#### ComfyUI-Detail-Daemon
+* https://github.com/Jonseed/ComfyUI-Detail-Daemon
+
+#### RES4LYF
+* https://github.com/ClownsharkBatwing/RES4LYF
+
+#### ComfyUI-Easy-Color-Corrector
+* https://github.com/regiellis/ComfyUI-EasyColorCorrector
+
+## Illustrious Workflow
+
+*The v19b version of this workflow will more than likely be the last version since I have moved on to using Anima and Krea 2 Turbo.*
+
+The Illustrious workflow has the following functions/features:
+* Text to Image
+* Image to Image
+* Multiple Lora Loading
+* Global controls for Seed, Sampler, and Scheduler
+* Wildcards
+* Upscale
+* Detailers
+* Color Correction
+* Save Image with full resource metadata in CivitAI readable format
+
+### Custom Nodes used:
+
+#### rgthree-comfy
+* https://github.com/rgthree/rgthree-comfy
+
+#### ComfyUI-Custom-Scripts
+* https://github.com/pythongosssss/ComfyUI-Custom-Scripts
+
+#### ComfyUI-KJNodes
+* https://github.com/kijai/ComfyUI-KJNodes
+
+#### ComfyUI_UltimateSDUpscale
+* https://github.com/ssitu/ComfyUI_UltimateSDUpscale
+
+#### ComfyUI-Inspire-Pack
+* https://github.com/ltdrdata/ComfyUI-Inspire-Pack
+
+#### ComfyUI-Impact-Pack
+* https://github.com/ltdrdata/ComfyUI-Impact-Pack
+
+#### ComfyUI-Impact-Subpack
+* https://github.com/ltdrdata/ComfyUI-Impact-Subpack
+
+#### ComfyMath
+* https://github.com/evanspearman/ComfyMath
+
+#### ComfyUI-Image-Saver
+* https://github.com/alexopus/ComfyUI-Image-Saver
+
+#### comfyui-gps-supplements
+* https://github.com/Goshe-nite/comfyui-gps-supplements
+
+#### ComfyUI-Detail-Daemon
+* https://github.com/Jonseed/ComfyUI-Detail-Daemon
+
+#### RES4LYF
+* https://github.com/ClownsharkBatwing/RES4LYF
+
+#### ComfyUI-Easy-Color-Corrector
+* https://github.com/regiellis/ComfyUI-EasyColorCorrector
+
+# Image Examples
+Image samples using these workflows can be found here: https://civitai.com/user/Gladas
