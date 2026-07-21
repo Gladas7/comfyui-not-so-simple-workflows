@@ -10,6 +10,12 @@ Support, documentation, and updates apply only to the official version distribut
 
 Inclusion of these workflows in another project does not imply my endorsement, involvement, or responsibility for that project.
 
+## Disclaimer
+
+Repsonsibility for generated content falls on the user of these workflows.
+
+Installation of ComfyUI and/or any related custom nodes for these workflows are at the installer's own risk.
+
 ## Krea 2 Turbo Workflow
 
 The Krea 2 Turbo workflow has the following functions/features:
