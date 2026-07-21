@@ -12,7 +12,7 @@ Inclusion of these workflows in another project does not imply my endorsement, i
 
 ## Disclaimer
 
-Repsonsibility for generated content falls on the user of these workflows.
+Responsibility for generated content falls on the user of these workflows.
 
 Installation of ComfyUI and/or any related custom nodes for these workflows are at the installer's own risk.
 
@@ -68,7 +68,7 @@ The Krea 2 Turbo workflow has the following functions/features:
 #### comfyui-krea2-conditioning
 * https://github.com/huwhitememes/comfyui-krea2-conditioning
 
-## Anima Workflow
+## [Anima Workflow](https://github.com/Gladas7/comfyui-not-so-simple-workflows/tree/main/workflows/Anima)
 
 The Anima workflow has the following functions/features:
 
