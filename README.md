@@ -16,7 +16,7 @@ Repsonsibility for generated content falls on the user of these workflows.
 
 Installation of ComfyUI and/or any related custom nodes for these workflows are at the installer's own risk.
 
-## Krea 2 Turbo Workflow
+## [Krea 2 Turbo Workflow](https://github.com/Gladas7/comfyui-not-so-simple-workflows/tree/main/workflows/krea2turbo)
 
 The Krea 2 Turbo workflow has the following functions/features:
 
