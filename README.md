@@ -120,7 +120,7 @@ The Anima workflow has the following functions/features:
 #### ComfyUI-Easy-Color-Corrector
 * https://github.com/regiellis/ComfyUI-EasyColorCorrector
 
-## Illustrious Workflow
+## [Illustrious Workflow](https://github.com/Gladas7/comfyui-not-so-simple-workflows/tree/main/workflows/Illustrious)
 
 *The v19b version of this workflow will more than likely be the last version since I have moved on to using Anima and Krea 2 Turbo.*
 
